@@ -1,2 +1,2 @@
-#Quiz-Application
+Quiz-Application
 This Java Project is based on Java Swing and AWT Framework...
